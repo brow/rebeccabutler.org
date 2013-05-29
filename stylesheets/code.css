@@ -14,6 +14,10 @@
   color: #0086B3;
 }
 
+.source code .keyword {
+  color: #999999;
+}
+
 .output {
 }
 
