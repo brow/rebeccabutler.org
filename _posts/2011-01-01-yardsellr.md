@@ -2,6 +2,7 @@
 layout:     post
 title:      "Yardsellr"
 subtitle:   "a native iPhone app for buying and selling goods"
+screenshot_url: /images/projects/yardsellr/1.png
 ---
 
 [Yardsellr] was a web-based marketplace with deep social integration.
