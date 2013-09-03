@@ -15,6 +15,7 @@ included:
 * Custom collection views optimized for browsing
 * Streamlined flow for photographing an item and posting it for sale
 * Payment via Braintree and PayPal client-side APIs
+* Facebook Connect, and Like Buttons via FacebookLikeView
 
 Yardsellr and Yardsellr for iPhone [shut down in February 2013].
 
