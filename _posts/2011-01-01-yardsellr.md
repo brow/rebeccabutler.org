@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "Yardsellr for iPhone"
+title:      "Yardsellr"
+subtitle:   "a native iPhone app for buying and selling goods"
 permalink:  /projects/yardsellr/index.html
 ---
 
