@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Yardsellr for iPhone"
+layout:     post
+title:      "Yardsellr for iPhone"
+permalink:  /projects/yardsellr.html
 ---
 
 [Yardsellr] was a web-based marketplace with deep social integration.
