@@ -2,7 +2,7 @@
 layout:     post
 title:      "Yardsellr"
 year:       2012
-subtitle:   "a native iPhone app for buying and selling goods"
+subtitle:   "an iOS app for an online marketplace"
 screenshot_url: /images/projects/yardsellr/1.png
 ---
 
