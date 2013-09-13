@@ -6,6 +6,20 @@
   color: #777;
 }
 
+.post .iphone {
+  background-size: 100% auto;
+  background-image: url(/images/projects/iPhone.png);
+  background-repeat: no-repeat;
+  padding-top: 32%;
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 32%;
+}
+
+.post .iphone video, .post .iphone img {
+  width: 100%;
+}
+
 .post img.screenshot {
   width:100%;
   padding-bottom: 20px;

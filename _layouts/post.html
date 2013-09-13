@@ -10,8 +10,16 @@ layout: default
     </p>
     <hr />
   </div>
-  <div class="one-third column">
-    <img class="screenshot" src="{{ page.screenshot_url }}" />
+  <div class="one-third column" >
+    <div class="iphone">
+      {% if page.video_mp4_url %}
+        <video autoplay>
+          <source type="video/mp4" src="{{ page.video_mp4_url }}" >
+        </video>
+      {% else %}
+        <img src="{{ page.screenshot_url }}" />
+      {% endif %}
+    </div>
   </div>
   <div class="two-thirds column">
     {{ content }}
