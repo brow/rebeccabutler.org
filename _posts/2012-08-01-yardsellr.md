@@ -4,7 +4,7 @@ title:      "Yardsellr"
 year:       2012
 subtitle:   "an iOS app for an online marketplace"
 screenshot_url: /images/projects/yardsellr/1.png
-video_mp4_url: /images/projects/yardsellr/1.mp4
+video_mp4_url: /images/projects/yardsellr/browse.mp4
 ---
 
 [Yardsellr] was a web-based marketplace with deep social integration.
