@@ -14,7 +14,8 @@ layout: default
     <div class="iphone">
       {% if page.video_mp4_url %}
         <video autoplay>
-          <source type="video/mp4" src="{{ page.video_mp4_url }}" >
+          <source type="video/mp4" src="{{ page.video_mp4_url }}" />
+          <source type="video/webm" src="{{ page.video_webm_url }}" />
         </video>
       {% else %}
         <img src="{{ page.screenshot_url }}" />
