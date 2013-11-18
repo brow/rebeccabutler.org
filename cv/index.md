@@ -1,6 +1,5 @@
 ---
 layout: cv
-title: Tom Brow
 ---
 
 ## Work
