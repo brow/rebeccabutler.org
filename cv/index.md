@@ -5,19 +5,11 @@ layout: cv
 ## Work
 
 ### [Lunar], Lead iOS Developer<sup><a href="#1">1</a></sup> (Present)
-* Iterating rapidly with mobile designer, backend engineers, and junior iOS developer on a secretive e-commerce project project
+* Iterate rapidly with mobile designer, backend engineers, and junior iOS developer
 
 ### [Fifty-Fourth Street], Founder (2012-Present)
-
-#### [Noise]
-* Created a declarative language and IDE for coding resolution-independent graphic designs
-* Wrote an interpreter in Haskell that integrates with the IDE to support AST-aware code manipulation in real time
-* Presented at the [LIVE 2013 workshop] at [ICSE 2013]
-
-#### [iEFS]
-* Created and marketed a lawyer-friendly iOS app to work around the mobile inaccessibility of a government portal
-* Engineered practical solution involving cluster of EC2 instances, custom worker queue, and JavaScript injected into web view
-* Devised virtualized development environment and integration tests to combat changing portal-side behavior
+* Created [Noise], a declarative language and IDE for resolution-independent graphic design
+* Created [iEFS], a lawyer-friendly iOS app to work around the mobile inaccessibility of a government portal
 
 ### [Yardsellr], Lead iOS Developer<sup><a href="#1">1</a></sup> (2011-2012)
 * Designed and built an iOS app to mirror the functionality of a web-based [Etsy]-like marketplace, including purchasing and listing goods
