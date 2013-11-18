@@ -36,7 +36,7 @@ layout: cv
 ## Recent recognition
 * Invited to present [Noise] at the [LIVE 2013 workshop] at [ICSE 2013] with registration waived
 * Awarded expenses-paid trip to [Google I/O 2013] by startup space [1871] through nomination by peers
-* Awarded [US patent 8,445,767] for "Method and system for interactive musical game" with co-inventor
+* Awarded [US patent 8,445,767] with co-inventor for "Method and system for interactive musical game"
 
 ## Education
 * BS Computer Science, [Stanford University], 2008
