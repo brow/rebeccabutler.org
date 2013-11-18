@@ -68,8 +68,8 @@ layout: cv
 [Resque]: https://github.com/resque/resque
 [ReactiveCocoa]: https://github.com/ReactiveCocoa/ReactiveCocoa
 [Specta]: https://github.com/specta/specta
-[Roy]: https://github.com/puffnfresh/roy
-[Forml]: https://github.com/texodus/forml
+[Roy]: http://roy.brianmckenna.org/
+[Forml]: http://texodus.github.io/forml/
 [HTF]: https://github.com/skogsbaer/HTF
 [Google I/O 2013]: https://developers.google.com/events/io/
 [Etsy]: http://www.etsy.com/
