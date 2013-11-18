@@ -5,7 +5,7 @@ title: Tom Brow
 
 ## Work
 
-### [Lunar], Lead iOS Developer (Present)
+### [Lunar], Lead iOS Developer<sup><a href="#1">1</a></sup> (Present)
 * Iterating rapidly with mobile designer, backend engineers, and junior iOS developer on a secretive e-commerce project project
 
 ### [Fifty-Fourth Street], Founder (2012-Present)
@@ -20,11 +20,11 @@ title: Tom Brow
 * Engineered practical solution involving cluster of EC2 instances, custom worker queue, and JavaScript injected into web view
 * Devised virtualized development environment and integration tests to combat changing portal-side behavior
 
-### [Yardsellr], Lead iOS Developer (2011-2012)
+### [Yardsellr], Lead iOS Developer<sup><a href="#1">1</a></sup> (2011-2012)
 * Designed and built an iOS app to mirror the functionality of a web-based [Etsy]-like marketplace, including purchasing and listing goods
 * Engineered client to function robustly against large, fluid, and undocumented private API
 
-### [Zoodles], Lead iOS Developer (2009-2010)
+### [Zoodles], Lead iOS Developer<sup><a href="#1">1</a></sup> (2009-2010)
 * Built an API-backed iOS app from scratch to implement pixel-perfect comps by in-house designer
 * Contributed fixes to front-end web code used in web views
 
@@ -53,6 +53,9 @@ title: Tom Brow
 ## Interests
 * Advancing type systems and functional programming in mainstream software development
 * Establishing a culture of testing in the Cocoa and Haskell communities
+
+---
+<a name="1"><sup>1</sup></a> Denotes freelance consulting engagements.
 
 [Noise]: http://tombrow.com/noise
 [iEFS]: http://iefsapp.com
