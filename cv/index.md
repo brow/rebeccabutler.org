@@ -44,6 +44,7 @@ layout: cv
 ## Interests
 * Practical uses of type systems and functional programming in mainstream software development
 * Establishing a culture of testing in the Cocoa and Haskell communities
+* Including more and different people in what we do
 
 ---
 <a name="1"><sup>1</sup></a> Denotes freelance consulting engagements.
