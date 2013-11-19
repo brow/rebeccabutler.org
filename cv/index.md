@@ -47,7 +47,7 @@ layout: cv
 * Including more and different people in what we do
 
 ---
-<a name="1"><sup>1</sup></a> Denotes freelance consulting engagements.
+<a name="1"><sup>1</sup></a> Freelance consulting engagement.
 
 [Noise]: http://tombrow.com/noise
 [iEFS]: http://iefsapp.com
