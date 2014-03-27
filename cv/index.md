@@ -4,8 +4,10 @@ layout: cv
 
 ## Work
 
-### [Lunar], Lead iOS Developer<sup><a href="#1">1</a></sup> (Present)
-* Iterate rapidly with mobile designer, backend engineers, and junior iOS developer
+### [Asana], Software Engineer (2014-Present)
+
+### [Modest, Inc.], Lead iOS Developer<sup><a href="#1">1</a></sup> (2013-2014)
+* Iterated rapidly on consumer commerce app with mobile designer, backend engineers, and other iOS engineers
 
 ### [Fifty-Fourth Street], Founder (2012-Present)
 * Created [Noise], a declarative language and live-programming IDE for resolution-independent graphic design
@@ -51,7 +53,7 @@ layout: cv
 
 [Noise]: http://tombrow.com/noise
 [iEFS]: http://iefsapp.com
-[Lunar]: http://ltc.io
+[Modest, Inc.]: http://modest.com/
 [Yardsellr]: http://techcrunch.com/2013/02/11/yardsellr-the-ebay-for-facebook-becomes-the-latest-casualty-in-social-local-commerce/
 [Zoodles]: http://www.zoodles.com
 [Originate]:  http://originate.com
@@ -74,3 +76,4 @@ layout: cv
 [HTF]: https://github.com/skogsbaer/HTF
 [Google I/O 2013]: https://developers.google.com/events/io/
 [Etsy]: http://www.etsy.com/
+[Asana]: http://asana.com
