@@ -4,7 +4,7 @@ layout: cv
 
 ## Work
 
-### [Asana], Software Engineer (2014-Present)
+### [Asana], iOS Program Lead (2014-Present)
 
 ### [Modest, Inc.], Lead iOS Developer<sup><a href="#1">1</a></sup> (2013-2014)
 * Iterated rapidly on consumer commerce app with mobile designer, backend engineers, and other iOS engineers
