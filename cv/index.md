@@ -4,7 +4,9 @@ layout: cv
 
 ## Work
 
-### [Asana], iOS Program Lead (2014-Present)
+### [Pod], Cofounder (2016-Present)
+
+### [Asana], iOS Program Lead (2014-2016)
 
 ### [Modest, Inc.], Lead iOS Developer<sup><a href="#1">1</a></sup> (2013-2014)
 * Iterated rapidly on consumer commerce app with mobile designer, backend engineers, and other iOS engineers
@@ -77,3 +79,4 @@ layout: cv
 [Google I/O 2013]: https://developers.google.com/events/io/
 [Etsy]: http://www.etsy.com/
 [Asana]: http://asana.com
+[Pod]: http://pod.io
