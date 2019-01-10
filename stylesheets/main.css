@@ -6,6 +6,14 @@ hr {
   margin-bottom: 22px;
 }
 
+.headshot {
+  border-radius: 50%;
+  height: 78px;
+  width: 78px;
+  margin-bottom: 6px;
+  margin-left: -2px;
+}
+
 .post ul { 
   list-style: square inside;
 }
