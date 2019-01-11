@@ -4,7 +4,7 @@ layout: page
 
 I design and build software that interfaces directly with people. For the last 10 years, I've focused on native iOS applications.
 
-I've focused especially on building applications that interact with a complex data graph over the network and remain functional offline. Most recently I built the advanced calendar [Pod](https://pod.io) and led iOS development on [Asana][asana-ios].
+I've focused especially on building applications that interact with a complex data graph over the network and remain functional offline. Most recently I built the calendar [Pod](https://pod.io) and led iOS development on [Asana][asana-ios].
 
 I've practiced most of my career in a startup environment. I'm comfortable working with dedicated designers and PMs, and also with performing those roles myself. I'm accustomed to building products around changing and breaking APIs.
 
