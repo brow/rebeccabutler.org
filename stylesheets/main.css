@@ -7,6 +7,10 @@ hr {
   margin-bottom: 22px;
 }
 
+.breadcrumb {
+  margin-bottom: 10px;
+}
+
 .headshot {
   border-radius: 50%;
   height: 78px;
