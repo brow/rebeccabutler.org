@@ -18,6 +18,6 @@ In my iOS work, I've specialized in apps that interact with a complex data graph
 
 I've usually worked in a startup environment. I enjoy working with dedicated designers and PMs, and also enjoy performing those roles myself. I'm accustomed to launching products on top of changing and breaking APIs.
 
-I was an early adopter of Swift and ReactiveSwift, and I enjoy mentoring people who are learning those paradigms and other aspects of software engineering.
+I was an early adopter of Swift and ReactiveSwift, and I enjoy mentoring people who are learning those paradigms and other aspects of software development.
 
 If you've read this far and want to know more, drop me a line at [hello@tombrow.com](mailto:hello@tombrow.com).
