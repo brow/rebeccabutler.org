@@ -3,6 +3,10 @@ body {
   color: black;
 }
 
+a, a:visited, a:hover {
+  color: #AF1C0D;
+}
+
 hr {
   margin-bottom: 22px;
 }
