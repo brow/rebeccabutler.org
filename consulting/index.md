@@ -4,7 +4,7 @@ layout: page
 
 I design and build software that interfaces directly with people. For the last 10 years, I've focused on native iOS applications.
 
-I've built tens of apps from scratch and have worked on several large Objective-C and Swift codebases. I can help with hard problems in performance, stability, networking, persistence, concurrency, security, code quality, and design.
+I've built tens of apps from scratch and have worked extensively in large Objective-C and Swift codebases. I can help with hard problems in performance, stability, networking, persistence, concurrency, security, code quality, and design.
 
 As a startup founder, I'm also accustomed to working throughout the technical stack and solving business problems in a variety of ways.
 
