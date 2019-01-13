@@ -4,7 +4,7 @@ layout: page
 
 I design and build software that interfaces directly with people. For the last 10 years, I've focused on native iOS applications.
 
-I've built tens of apps from scratch and have worked extensively in large Objective-C and Swift codebases. I can help with hard problems in performance, stability, networking, persistence, concurrency, security, code quality, and design.
+I've built tens of apps from scratch and have worked extensively in large Objective-C and Swift codebases. I can help with hard problems in performance, stability, networking, persistence, concurrency, security, code quality, and user experience.
 
 As a startup founder, I'm also accustomed to working throughout the technical stack and solving business problems in a variety of ways.
 
@@ -18,6 +18,8 @@ In my iOS work, I've specialized in apps that interact with a complex data graph
 
 I've usually worked in a startup environment. I enjoy working with dedicated designers and PMs, and also enjoy performing those roles myself. I'm accustomed to launching products on top of changing and breaking APIs.
 
-I was an early adopter of Swift and ReactiveSwift, and I enjoy mentoring people who are learning those paradigms and other aspects of software development.
+I was an early adopter of Swift and reactive programming, and I enjoy mentoring people who are learning those paradigms and other aspects of software development.
+
+I graduated from Stanford in 2008 with a BS in Computer Science.
 
 If you've read this far and want to know more, drop me a line at [hello@tombrow.com](mailto:hello@tombrow.com).
