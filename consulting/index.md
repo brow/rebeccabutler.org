@@ -20,6 +20,6 @@ I've usually worked in a startup environment. I enjoy working with dedicated des
 
 I was an early adopter of Swift and reactive programming, and I enjoy mentoring people who are learning those paradigms and other aspects of software development.
 
-I graduated from Stanford in 2008 with a BS in Computer Science.
+I graduated from Stanford in 2008 with a BS in Computer Science. Find my [my full CV on LinkedIn](https://www.linkedin.com/in/tombrow/).
 
 If you've read this far and want to know more, drop me a line at [hello@tombrow.com](mailto:hello@tombrow.com).
