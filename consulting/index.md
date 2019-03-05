@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Consulting
 ---
 
 I design and build software that interfaces directly with people. For the last 10 years, I've focused on native iOS applications.

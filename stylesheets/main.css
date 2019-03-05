@@ -15,6 +15,14 @@ h2 {
   font-size: 30px;
 }
 
+ul {
+  list-style: disc outside;
+}
+
+ul li {
+  margin-left: 20px;
+}
+
 .breadcrumb {
   margin-bottom: 10px;
 }
