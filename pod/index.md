@@ -16,4 +16,4 @@ We raised $1M in funding from [Harrison Metal](https://www.harrisonmetal.com) an
 * Collaborative scheduling without back-and-forth using polls
 * Natural language entry for event time, people, and place
 
-The app was ultimately praised most for its clean, simple design and powerful views.
+The app was praised most for its clean, simple design and powerful views of time.
