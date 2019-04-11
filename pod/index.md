@@ -8,4 +8,4 @@ In 2019 it was acquired and rebranded as [Calendar](https://itunes.apple.com/us/
 
 Pod was used by 20 thousand people per month and was featured 5+ times on the App Store.
 
-We raised $1M in funding and launch relationship management, teamwork, and scheduling features that are unique among calendars.
+We raised $1M in funding from [Harrison Metal](https://www.harrisonmetal.com) and launched relationship management, teamwork, and scheduling features that are unique among calendars.
