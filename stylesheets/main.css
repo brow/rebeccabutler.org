@@ -23,7 +23,12 @@ ul li {
   margin-left: 20px;
 }
 
-p img {
+img.large {
+  max-width: 95%;
+  margin: 0 auto 0 auto;
+}
+
+img.small {
   max-width: 240px;
   margin: 0 auto 0 auto;
   display: block;

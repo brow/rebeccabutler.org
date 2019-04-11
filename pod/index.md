@@ -4,9 +4,10 @@ title: Pod
 ---
 Pod was a popular iOS calendar app for iOS that I built with [Justin Krause](https://justinkrause.biz) from 2016–2018.
 
-<img src="images/screenshots.png" />
-
 In 2019 it was acquired and rebranded as [Calendar](https://itunes.apple.com/us/app/calendar/id1113106806?mt=8).
+
+<img class="large" src="images/screenshots.png" />
+
 
 Pod was used by 20 thousand people each month and was featured 5+ times on the App Store.
 
