@@ -79,4 +79,4 @@ layout: cv
 [Google I/O 2013]: https://developers.google.com/events/io/
 [Etsy]: http://www.etsy.com/
 [Asana]: http://asana.com
-[Pod]: http://pod.io
+[Pod]: /pod

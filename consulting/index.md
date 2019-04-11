@@ -16,7 +16,7 @@ If you think I can help you, say hello at [hello@tombrow.com](mailto:hello@tombr
 
 ## Background
 
-In my iOS work, I've specialized in apps that interact with a complex data graph over the network and remain functional offline. Most recently I built the team calendar [Pod](https://pod.io) and led iOS development on [Asana](https://itunes.apple.com/us/app/asana-organize-tasks-work/id489969512?mt=8).
+In my iOS work, I've specialized in apps that interact with a complex data graph over the network and remain functional offline. Most recently I built the team calendar [Pod](/pod) and led iOS development on [Asana](https://itunes.apple.com/us/app/asana-organize-tasks-work/id489969512?mt=8).
 
 I've usually worked in a startup environment. I enjoy working with dedicated designers and PMs, and also enjoy performing those roles myself. I'm accustomed to launching products on top of changing and breaking APIs.
 
