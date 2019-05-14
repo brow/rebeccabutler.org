@@ -4,7 +4,7 @@ title: Timelord
 ---
 Set timers on your iPhone without touching or unlocking it. Just ask Siri.
 
-<img class="small" src="/images/timelord.gif" />
+<img class="small" src="images/timelord.gif" />
 
 Timelord is designed for sticky-fingered cooks without a free hand: 
 
