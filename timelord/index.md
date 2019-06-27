@@ -26,4 +26,4 @@ Timelord doesn't store any information except for the timers you set. Once you r
 
 Timelord doesn't upload any information to servers. There are no servers.
 
-If you need help or have questions about this policy, email [hello@tombrow.com](mailto:hello@tombrow.com).
+If you need help or have questions about this policy, email [timelord@tombrow.com](mailto:timelord@tombrow.com).
