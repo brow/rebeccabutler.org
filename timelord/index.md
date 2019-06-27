@@ -18,3 +18,12 @@ It works great with AirPods or with your phone sitting on the counter, and you c
 
 Timelord is **coming soon** to the iOS App Store.
 
+## Privacy
+
+Timelord never asks for your name, email address, or any other information about you. Unless you contact me outside the app, I have no way to contact you and never will.
+
+Timelord doesn't store any information except for the timers you set. Once you remove a timer from the app, it's no longer stored.
+
+Timelord doesn't upload any information to servers. There are no servers.
+
+If you need help or have questions about this policy, email [hello@tombrow.com](mailto:hello@tombrow.com).
