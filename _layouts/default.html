@@ -1,56 +1,17 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
-<head>
+<html lang="en">
 
-	<!-- Basic Page Needs
-  ================================================== -->
-	<meta charset="utf-8">
-	<title>{{ page.title }}</title>
+  <head>
+    <title>{{ page.title }}</title>
+
+    <meta charset="utf-8">
     <meta name="description" content="{{ page.description }}">
-	<meta name="author" content="Tom Brow">
+    <meta name="author" content="Tom Brow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!-- Mobile Specific Metas
-  ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+  </head>
 
-	<!-- CSS
-  ================================================== -->
-	<link rel="stylesheet" href="/stylesheets/base.css">
-	<link rel="stylesheet" href="/stylesheets/skeleton.css">
-	<link rel="stylesheet" href="/stylesheets/layout.css">
-	<link rel="stylesheet" href="/stylesheets/code.css">
-	<link rel="stylesheet" href="/stylesheets/main.css">
+  <body>{{ content }}</body>
 
-	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-
-  <style>
-    .container {
-      margin-top: 40px;
-      margin-bottom: 20px;
-    }
-  </style>
-
-  <!-- Google Analytics tracking code -->
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-5899878-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-</head>
-<body>
-
-{{ content }}
-
-</body>
 </html>
