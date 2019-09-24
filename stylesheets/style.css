@@ -42,6 +42,12 @@ img.headshot {
   width: 120px;
 }
 
+img.large {
+  max-width: 95%;
+  margin: auto;
+  display: block;
+}
+
 .centered-images {
   max-width: 100%;
   flex-direction: row;
