@@ -18,11 +18,12 @@ div.fulltext {
  * https://rwt.io/typography-tips/marks-ends-and-middles-end-marks-sections-and-dead-ends
  */
 div.fulltext p:last-child:after {
-  content: "\2766";
+  content: "\2731";
   display: block;
   text-align: center;
-  font-size: 1.5em;
-  line-height: 2.5em;
+  font-size: 2em;
+  line-height: 2em;
+  opacity: 0.4;
 }
 
 p {
