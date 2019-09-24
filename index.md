@@ -19,7 +19,7 @@ Previously I led iOS development at [Asana](https://asana.com), then cofounded [
 
 Longer ago I worked at Google and Lytro, and consulted for startups funded by Y Combinator, Harrison Metal, and Accel Partners.
 
-Longer ago yet I studied computer science at Stanford. My full CV is on [LinkedIn](https://www.linkedin.com/in/tombrow/).
+Longer ago yet I studied computer science at [Stanford](https://cs.stanford.edu/). My full CV is on [LinkedIn](https://www.linkedin.com/in/tombrow/).
 
 ## Contact
 
