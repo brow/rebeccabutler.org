@@ -23,6 +23,12 @@ a {
   a {
     color: #e39777;
   }
+  img {
+    /* Images should be desaturated for dark mode:
+     * https://web.dev/prefers-color-scheme#re-colorize-and-darken-photographic-images
+     */
+    filter: grayscale(30%);
+  }
 }
 
 div.fulltext {
