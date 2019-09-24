@@ -48,6 +48,13 @@ img.large {
   display: block;
 }
 
+img.small {
+  max-width: 240px;
+  margin: 0 auto 0 auto;
+  display: block;
+  border-radius: 6%;
+}
+
 .centered-images {
   max-width: 100%;
   flex-direction: row;
