@@ -31,16 +31,17 @@ a {
   a[rev="footnote"] {
     display: none; }
 
-img, video {
-  max-width: 100%;
-  display: block;
-  margin: auto; }
-
 footer {
   border-top: 1px solid gray;
   font-size: 1rem;
   text-align: center;
   margin-top: 2rem; }
+
+img.headshot {
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+}
 
 .centered-images {
   max-width: 100%;
