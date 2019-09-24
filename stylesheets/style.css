@@ -3,12 +3,27 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #fafafa;
+  background-color: #f9f9f9;
+  color: #1a1a1a;
   height: 100%;
   font-family: "Roboto Slab", serif;
   font-size: 18px;
   line-height: 1.6rem;
   padding: 2rem; }
+
+a {
+  text-decoration: none;
+  color: #d55d2b; }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #444;
+    color: #e4e4e4;
+  }
+  a {
+    color: #e39777;
+  }
+}
 
 div.fulltext {
   margin: auto;
@@ -26,9 +41,6 @@ div.fulltext p:last-child:after {
   opacity: 0.4;
 }
 
-p {
-  color: #1a1a19; }
-
 h1 {
   margin-top: 0.3em;
   line-height: normal; }
@@ -36,10 +48,6 @@ h1 {
 h2 {
   margin-top: 2rem;
   line-height: 1.4em; }
-
-a {
-  text-decoration: none;
-  color: #d55d2b; }
 
 img.headshot {
   border-radius: 50%;
