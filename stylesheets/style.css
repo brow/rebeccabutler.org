@@ -10,9 +10,20 @@ body {
   line-height: 1.6rem;
   padding: 2rem; }
 
-.fulltext {
+div.fulltext {
   margin: auto;
   max-width: 38rem; }
+
+/* End mark
+ * https://rwt.io/typography-tips/marks-ends-and-middles-end-marks-sections-and-dead-ends
+ */
+div.fulltext p:last-child:after {
+  content: "\2766";
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 2.5em;
+}
 
 p {
   color: #1a1a19; }
