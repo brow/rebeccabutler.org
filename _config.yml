@@ -1,11 +1,16 @@
 highlighter: rouge
 permalink: /:title
 
+title: Tom Brow
+author: Tom Brow
+url: https://tombrow.com
+
 # Use CommonMark instead of Markdown to gain support for markdown within HTML.
 # https://stackoverflow.com/a/29378250
 markdown: CommonMarkGhPages
 
-# The rest is for jekyll-sitemap:
+
+# This is required for jekyll-sitemap:
 # https://github.com/jekyll/jekyll-sitemap/blob/master/README.md#usage
 url: "https://tombrow.com"
 
@@ -17,5 +22,5 @@ url: "https://tombrow.com"
 # those other gems if you don't want the sitemap to include the generated
 # content from the gems. "
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
-
