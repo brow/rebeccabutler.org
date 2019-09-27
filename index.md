@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Tom Brow
 description: I design and build software. I led iOS development at Asana and cofounded Pod. I'm available for consulting sometimes.
 ---
 
