@@ -4,6 +4,10 @@ title: Support dark mode in a website with CSS
 ---
 This site has a dark mode and a light one. Which mode you see depends on the setting of your device. Try it!
 
+<video class="large" autoplay loop muted>
+  <source src="/images/dark_mode.mp4" type="video/mp4" />
+</video>
+
 The instant change in appearance is accomplished just by this portion of the style sheet:
 
 ```css
