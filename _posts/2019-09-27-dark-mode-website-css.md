@@ -59,3 +59,10 @@ img {
 ```
 
 You may want to use a more specific selector here in order to [treat vector images differently](https://web.dev/prefers-color-scheme#invert-vector-graphics-and-icons).
+
+## Read more
+
+All the above is distilled from [Hello darkness, my old friend](https://web.dev/prefers-color-scheme) by [Thomas Steiner](https://twitter.com/tomayac), which also contains a fascinating history of display color schemes:
+> With the advent of more sophisticated WYSIWYG desktop publishing, the idea of making the virtual document resemble a physical sheet of paper became popular…
+>
+> The first ever browser, WorldWideWeb, displayed webpages this way. Fun fact: the second ever browser, Line Mode Browser—a terminal-based browser—was green on dark.

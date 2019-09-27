@@ -22,12 +22,12 @@ div.fulltext {
 /* End mark
  * https://rwt.io/typography-tips/marks-ends-and-middles-end-marks-sections-and-dead-ends
  */
-div.fulltext p:last-child:after {
+div.fulltext:after {
   content: "\2731";
   display: block;
   text-align: center;
   font-size: 2em;
-  line-height: 2em;
+  line-height: 1.5em;
   opacity: 0.4;
 }
 
@@ -41,6 +41,12 @@ h2 {
 
 header .date {
   opacity: 0.6;
+}
+
+blockquote {
+  border-left: 0.2em solid #ccc;
+  margin-left: 0;
+  padding-left: 1em;
 }
 
 img.headshot {
