@@ -39,6 +39,10 @@ h2 {
   margin-top: 2rem;
   line-height: 1.4em; }
 
+header .date {
+  opacity: 0.6;
+}
+
 img.headshot {
   border-radius: 50%;
   height: 120px;
