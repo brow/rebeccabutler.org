@@ -60,8 +60,9 @@ img.small {
 
 .highlight {
   font-family: Consolas, Monaco, "Lucida Console", monospace;
-  font-size: 0.8rem;
+  font-size: 1rem;
   border-radius: 0.4em;
+  line-height: 1.4rem;
 }
 
 pre {
