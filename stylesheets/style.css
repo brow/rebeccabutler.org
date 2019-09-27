@@ -73,3 +73,15 @@ img.small {
   display: block;
   border-radius: 6%;
 }
+
+div.highlight {
+  background-color: #002b36;
+  font-family: Consolas, Monaco, "Lucida Console", monospace;
+  font-size: 0.8rem;
+  border-radius: 0.4em;
+}
+
+pre {
+  padding: 1.25rem;
+  overflow-x: auto;
+}
