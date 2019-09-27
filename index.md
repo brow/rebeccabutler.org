@@ -26,3 +26,12 @@ Longer ago yet I studied computer science at [Stanford](https://cs.stanford.edu/
 You can reach me anytime at [hello@tombrow.com](mailto:hello@tombrow.com).
 
 [Subscribe to my newsletter](https://tinyletter.com/brow) to hear about new things I'm working on.
+
+## Writing
+
+{% for post in site.posts %}
+
+* [{{post.title}}]({{post.url}}) ({{ post.date | date: '%B %Y' }})
+
+{% endfor %}
+
