@@ -30,7 +30,7 @@ You can reach me anytime at [hello@tombrow.com](mailto:hello@tombrow.com).
 
 {% for post in site.posts %}
 
-* [{{post.title}}]({{post.url}}) ({{ post.date | date: '%B %Y' }})
+[{{post.title}}]({{post.url}}) ({{ post.date | date: '%B %Y' }})
 
 {% endfor %}
 
