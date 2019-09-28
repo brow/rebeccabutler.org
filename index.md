@@ -22,15 +22,15 @@ Longer ago yet I studied computer science at [Stanford](https://cs.stanford.edu/
 
 ## Contact
 
-You can reach me anytime at [hello@tombrow.com](mailto:hello@tombrow.com).
-
-[Subscribe to my newsletter](https://tinyletter.com/brow) to hear about new things I'm working on.
+* Reach me anytime: [hello@tombrow.com](mailto:hello@tombrow.com)
+* Instagram: [@tom](https://instagram.com/tom)
+* Sign up for [my newsletter](https://tinyletter.com/brow)!
 
 ## Writing
 
 {% for post in site.posts %}
 
-[{{post.title}}]({{post.url}}) ({{ post.date | date: '%B %Y' }})
+* [{{post.title}}]({{post.url}}) ({{ post.date | date: '%B %Y' }})
 
 {% endfor %}
 
