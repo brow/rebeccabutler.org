@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Dark mode in a website with CSS
-image: /images/dark_mode.gif
+image: /images/dark_mode_small.gif
+description: This page has a dark mode. Try it! Supporting prefers-color-scheme was easy, though there were a couple surprising details to address.
 ---
 This site has a dark mode and a light one. Which mode you see depends on the setting of your device. Try it!
 
