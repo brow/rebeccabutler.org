@@ -5,9 +5,7 @@ image: /images/dark_mode.gif
 ---
 This site has a dark mode and a light one. Which mode you see depends on the setting of your device. Try it!
 
-<video class="large" autoplay loop muted playsinline>
-  <source src="/images/dark_mode.mp4" type="video/mp4" />
-</video>
+<img alt="toggling dark mode in iOS" src="/images/dark_mode.gif" class="large">
 
 The instant change in appearance is accomplished by this appendix to the style sheet:
 
