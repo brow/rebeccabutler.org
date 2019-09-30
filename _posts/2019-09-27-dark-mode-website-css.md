@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dark mode in a website with CSS
+image: /images/dark_mode.gif
 ---
 This site has a dark mode and a light one. Which mode you see depends on the setting of your device. Try it!
 
