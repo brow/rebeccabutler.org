@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>
-      {% if page.title %}{{ page.title }} • {% endif %}Tom Brow</title>
     <meta charset="utf-8">
-    <meta name="author" content="Tom Brow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/stylesheets/style.css">
     <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Atom feed">
+    {% seo %}
   </head>
   <body><div class="fulltext">{{ content }}</div></body>
 </html>

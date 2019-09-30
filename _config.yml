@@ -24,3 +24,4 @@ url: "https://tombrow.com"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
