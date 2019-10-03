@@ -19,18 +19,6 @@ div.fulltext {
   margin: auto;
   max-width: 38rem; }
 
-/* End mark
- * https://rwt.io/typography-tips/marks-ends-and-middles-end-marks-sections-and-dead-ends
- */
-div.fulltext:after {
-  content: "\2731";
-  display: block;
-  text-align: center;
-  font-size: 2em;
-  line-height: 1.5em;
-  opacity: 0.4;
-}
-
 h1 {
   margin-top: 0.3em;
   line-height: normal; }
