@@ -54,9 +54,8 @@ blockquote {
 }
 
 img.headshot {
-  border-radius: 50%;
-  height: 120px;
-  width: 120px;
+  border-radius: 0.5em;
+  width: 10em;
 }
 
 .large {
